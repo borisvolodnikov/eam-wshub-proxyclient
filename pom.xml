@@ -110,15 +110,6 @@
 </repositories>
 
   <distributionManagement>
-    <repository>
-      <id>maven-staging</id>
-      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
-    </repository>
-    <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-    </snapshotRepository>
-    <repository>
   <id>advoco-visualstudio-com-advoco-advoco</id>
   <url>https://advoco.pkgs.visualstudio.com/_packaging/Advoco/maven/v1</url>
   <releases>
